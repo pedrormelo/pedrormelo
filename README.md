@@ -1,10 +1,10 @@
 ### - Olá! me chamo *Pedro Melo*
 - 🔭 Atualmente estou trabalhando em Python
-- 🌱 Atualmente estou aprendendo Um pouco de tudo
--
+- 🌱 Atualmente estou aprendendo um pouco de tudo
+- 🌃 Atualmente estou no terceiro período do Bacharelado de Ciências da Computação.  
 - 💬 Pergunte-me sobre `C ou Java`
 - 📫 Como chegar até mim: [Fale comigo por aqui](mailto:pedromelo.arct@gmail.com)
-- ⚡ Curiosidade: Amo gatos 🐈‍⬛.
+- 🐈‍⬛ Curiosidade: Amo gatos.
 
 ### - Linguagens e ferramentas:
 <p align="left"> 
