@@ -64,8 +64,8 @@
 
 ### - Estatísticas:
 <div align="center" style="display: inline_block">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrormelo&show_icons=true&theme=tomorrownight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrormelo&layout=compact&langs_count=5&theme=palenight&hide_border=true&count_private=false"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrormelo&show_icons=true&theme=tomorrow_night&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrormelo&layout=compact&langs_count=5&theme=nightowl&hide_border=true&count_private=false"/>
 </div>
 
 ### - Contatos:
