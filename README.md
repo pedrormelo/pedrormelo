@@ -4,7 +4,7 @@
 - 🌃 Atualmente estou no terceiro período do Bacharelado de Ciências da Computação.  
 - 💬 Pergunte-me sobre `C`
 - 📫 Como chegar até mim: [Fale comigo por aqui](mailto:pedromelo.arct@gmail.com)
-- 🐈‍⬛ Curiosidade: Amo gatos.
+- 🐈 Curiosidade: Tenho um gato gordo.
 
 ### - Linguagens e ferramentas:
 <p align="left"> 
