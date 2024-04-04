@@ -1,7 +1,7 @@
 ### - Olá! me chamo *Pedro Melo*
 - 🔭 Atualmente estou trabalhando em Python e Javascript
 - 🌱 Atualmente estou aprendendo um pouco de tudo
-- 🌃 Atualmente estou no quarto período do Bacharelado de Ciências da Computação.  
+- 🌃 Atualmente estou no quinto período do Bacharelado de Ciências da Computação.  
 - 💬 Pergunte-me sobre `C`
 - 📫 Como chegar até mim: [Fale comigo por aqui](mailto:pedromelo.arct@gmail.com)
 - 🐈 Curiosidade: Tenho um gato gordo.
