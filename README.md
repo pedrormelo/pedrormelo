@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá me chamou <strong>Pedro Melo</strong> e sou um desenvolverdor <strong>fullstack</strong>.<br>
+  Olá! Me chamo <strong>Pedro Melo</strong> e sou um desenvolverdor <strong>fullstack</strong>.<br>
   Atualmente estou no 6° período do curso de <strong>Ciências da Computação</strong>, e estou estagiando na Secretaria de Saúde do Jaboatão dos Guararapes.
   Estou me dedicando a aprender novas tecnologias, no momento estou estudando <strong>C#, .NET e desenvolvimento de jogos</strong>.
 </p>
